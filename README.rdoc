@@ -1,0 +1,5 @@
+= puppet-dynatrace module
+
+{<img src='https://codex.cegeka.be/jenkins/job/puppet-dynatrace/badge/icon' />}[https://codex.cegeka.be/jenkins/job/puppet-dynatrace/]
+
+This is the dynatrace module.
